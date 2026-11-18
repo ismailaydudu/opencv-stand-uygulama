@@ -1,0 +1,8 @@
+{
+  "model": "u2net_human_seg",
+  "renk_uyumu": 1.0,
+  "ortam_golgesi": 0.0,
+  "arka_plan_bulanikligi": 0.0,
+  "arka_plan": "Bilgisayar - IT ofisi",
+  "kulup_imzasi": true
+}

@@ -1,0 +1,22 @@
+# Sanal ortam ve Python cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Kişisel çıktılar ve log kayıtları
+ciktilar/
+hatalar.log
+*.log
+
+# İndirilen büyük model dosyaları (1_KUR.bat ile otomatik çekiliyor)
+*.onnx
+*.pt
+*.pth
+*.bin
+models/
+
+# Sistem ve IDE dosyaları
+.vscode/
+.DS_Store
+Thumbs.db

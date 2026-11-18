@@ -1,0 +1,1 @@
+Ayni 1280x720 video karesi. CPU, iki ONNX thread. Yeni model isinmasindan sonra kesim+duzeltme+JPG kaydi: 1.79 saniye. Windows kamera arayuzu bu ortamda denenmedi.

@@ -1,0 +1,3 @@
+rembg[cpu]==2.0.85
+opencv-python-headless==4.13.0.92
+Pillow==12.3.0
